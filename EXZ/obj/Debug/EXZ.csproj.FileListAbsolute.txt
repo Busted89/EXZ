@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\EXZ\EXZ\bin\Debug\EXZ.exe.config
+C:\Users\Администратор\source\repos\EXZ\EXZ\bin\Debug\EXZ.exe
+C:\Users\Администратор\source\repos\EXZ\EXZ\bin\Debug\EXZ.pdb
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\EXZ.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\EXZ_MarkupCompile.cache
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\EXZ_MarkupCompile.lref
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\EXZ.g.resources
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\EXZ.Properties.Resources.resources
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\EXZ.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\EXZ.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\EXZ.exe
+C:\Users\Администратор\source\repos\EXZ\EXZ\obj\Debug\EXZ.pdb
